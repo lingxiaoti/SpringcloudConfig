@@ -1,3 +1,5 @@
 spring:
   profiles:
     active: dev
+neo:
+  hello: hello dev
